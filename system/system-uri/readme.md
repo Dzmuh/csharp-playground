@@ -43,6 +43,10 @@ http://www.dzmuh.com:80/portfolio/generic.asp?pageid=666&section=Details#Links
 
 Класс `System.Uri` инкапсулирует универсальный идентификатор ресурсов. Он содержит свойства и методы для анализа, сравнения и комбинирования URI. Создать объект можно передав конструктору строку URI: 
 
+```cs --region UriIntro --source-file .\ExploreSystemUri\Program.cs --project .\ExploreSystemUri\ExploreSystemUri.csproj
+```
+
+## ===
 
 ```cs --region UrlParser --source-file .\ExploreSystemUri\Program.cs --project .\ExploreSystemUri\ExploreSystemUri.csproj
 ```
